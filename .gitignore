@@ -9,3 +9,7 @@ wheels/
 # Virtual environments
 .venv
 .env
+
+*.ipynb
+.ipynb_checkpoints/
+jupyter_files(for experimentations)/
