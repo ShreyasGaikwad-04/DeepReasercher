@@ -12,4 +12,5 @@ wheels/
 
 *.ipynb
 .ipynb_checkpoints/
+jupyter_files/
 jupyter_files(for experimentations)/
