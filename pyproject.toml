@@ -19,6 +19,7 @@ dependencies = [
     "langgraph>=1.2.11",
     "pypdf>=6.18.0",
     "python-dotenv>=1.2.3",
+    "streamlit>=1.63.0",
 ]
 
 [project.scripts]
